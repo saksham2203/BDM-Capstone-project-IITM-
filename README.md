@@ -1,32 +1,16 @@
 # BDM-Capstone-project-IITM-
-Optimizing Inventory Management and Asset Utilization for a Rental Business
-📋 Project Overview
-This project presents a comprehensive, data-driven analysis for 
+# Optimizing Inventory Management and Asset Utilization for a Rental Business
+## 📋 Project Overview
+This project presents a comprehensive, data-driven analysis for Gupta Building Material, a B2B construction equipment rental business located in Hanumangarh, Rajasthan. The company faced critical operational challenges, including inefficient inventory management and poor asset utilization, which led to significant capital being tied up in underutilized stock and negatively impacting profitability.This analysis of the company's rental records from October and November 2024 provides a clear, data-driven strategy to enhance operational efficiency, increase profitability, and drive sustainable growth.
 
-Gupta Building Material, a B2B construction equipment rental business located in Hanumangarh, Rajasthan. The company faced critical operational challenges, including inefficient inventory management and poor asset utilization, which led to significant capital being tied up in underutilized stock and negatively impacting profitability.
-
-
-This analysis of the company's rental records from October and November 2024 provides a clear, data-driven strategy to enhance operational efficiency, increase profitability, and drive sustainable growth.
-
-
-🚀 Key Analysis Areas
+## 🚀 Key Analysis Areas
 The project was structured around a series of foundational and advanced analyses to uncover deep, actionable insights. The core analytical techniques included:
-
-
 Asset Profitability Analysis (RoNAC): To determine the true financial performance of each equipment category beyond simple revenue, accounting for full lifecycle costs.
-
-
-
 Asset Utilization Analysis: To objectively measure inventory efficiency and quantify idle time by calculating a standardized utilization rate for each asset category.
-
-
-
 Customer Value Analysis (ABC Analysis): To understand the revenue distribution across the customer base and identify the most valuable clients critical to the business's success.
-
-
 Time-Series Demand Analysis: To visualize day-to-day demand fluctuations, identify weekly patterns, and understand the project-based nature of the business's demand cycle.
 
-🛠️ Methodology
+## 🛠️ Methodology
 The project followed a systematic, three-step methodology:
 
 Data Collection: All transactional data was physically collected from a register maintained by the business owner, covering the period of October 1, 2024, to November 30, 2024. This register was then carefully digitized into Microsoft Excel.
@@ -38,7 +22,7 @@ Gadar, Phati, Plate, and Taak.
 
 Feature Engineering: Two critical new features were engineered to enable deeper analysis: No. of Days (rental duration) and Total Cost (INR) (total revenue per transaction).
 
-📊 Key Findings
+## 📊 Key Findings
 The analysis yielded four critical insights into the business's operations:
 
 The Volume vs. Revenue Disconnect: The most frequently rented item, 'Phati' (51.26% of total quantity), was not the highest revenue generator. 'Gadar' was the clear revenue leader, generating 34.45% of total income from a much smaller rental base.
@@ -61,7 +45,7 @@ The Underutilization Crisis: Asset utilization was found to be critically low ac
 Extreme Customer Concentration: An ABC analysis revealed that the business is heavily dependent on a small group of clients, with just 7 "Category A" customers responsible for 85.6% of the total revenue, creating a major strategic risk.
 
 
-💡 Strategic Recommendations
+## 💡 Strategic Recommendations
 Based on the findings, a four-pronged strategic plan was proposed to address the core challenges:
 
 
